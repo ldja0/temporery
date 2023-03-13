@@ -1,4 +1,4 @@
-|회사명|솔루션|도메인|동일|
+|회사명|솔루션|도메인|동일여부|
 |------|-----|-----|--|
 |AppsFlyer|AppsFlyer|https://www.appsflyer.com/|회솔도
 |Braze|braze|https://www.braze.com/|회솔도
